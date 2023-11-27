@@ -1,0 +1,26 @@
+
+h1 {
+font-family: 'Times New Roman', Times, serif;
+font-size: 50px;
+font-weight: bold;
+margin-top: 0px;
+margin-bottom: 0px;
+}
+img {
+    border: 5px solid #0b0000;
+}
+.fix{
+    position:fixed;
+    bottom:0px;
+    left: 90%;
+    width: 10%;
+    height: auto;
+}
+.wie {
+position:fixed;
+    bottom:0px;
+    right: 90%;
+    width: 10%;
+    height: auto;
+}
+
